@@ -1,10 +1,9 @@
 # React_Native_OMIMG
 Create your first native phone/device application using React Native.
 
-### Preview:
+### Deplyed to expo:
 
-
-![preview](https://github.com/401Repo/React_Native_OMIMG/blob/main/IMG_2293.jpeg)
+(Expo Link)[https://expo.io/@thatvetdevrob/projects/OMIMG]
 
 ### Features: 
 
@@ -17,3 +16,12 @@ Create your first native phone/device application using React Native.
 - Styled background
 
 - Styled text
+
+- Custom splash
+
+- Custom Icon 
+
+### Preview:
+
+![preview](https://github.com/401Repo/React_Native_OMIMG/blob/main/IMG_2293.jpeg)
+
