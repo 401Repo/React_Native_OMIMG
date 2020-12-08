@@ -3,7 +3,7 @@ Create your first native phone/device application using React Native.
 
 ### Deplyed to expo:
 
-(Expo Link)[https://expo.io/@thatvetdevrob/projects/OMIMG]
+[Expo Link](https://expo.io/@thatvetdevrob/projects/OMIMG)
 
 ### Features: 
 
